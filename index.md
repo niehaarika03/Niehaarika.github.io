@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
-title: Welcome to BDA/GEOG-Assignment 1 Homepage
+#Welcome to BDA/GEOG-Assignment 1 Homepage
 
 Description: Site content loading in progress
 
